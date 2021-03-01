@@ -14,6 +14,5 @@
 * [数据库](https://github.com/lzx-center/database)
 ### 大四
 
-* [网络制播技术]([lzx-center/network-tv-tech (github.com)](https://github.com/lzx-center/network-tv-tech))
-* [数字演播室技术]([lzx-center/digital-studio: digital-studio of cuc (github.com)](https://github.com/lzx-center/digital-studio))
-
+* [网络制播技术](https://github.com/lzx-center/network-tv-tech)
+* [数字演播室技术](https://github.com/lzx-center/digital-studio)
